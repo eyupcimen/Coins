@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=eyupcimen&color=brightgreen)
 # Coins
 Build with Clean-Swift (VIP)
  
@@ -21,4 +22,4 @@ Build with Clean-Swift (VIP)
 - Does your project require any particular tool to be able to run?
     - Yes this project included Swift package manager and Cococapod
 
-![](https://komarev.com/ghpvc/?username=eyupcimen&color=brightgreen)
+
